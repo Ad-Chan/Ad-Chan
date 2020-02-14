@@ -12,3 +12,6 @@ Welcome to my portfolio repository. My notable work will be hosted here. (WIP)
 
 <b><a href="https://github.com/Ad-Chan/DungeonGame2511">Dungeon Game</a></b>
 - A game made using java as part of an assignment from UNSW's COMP2511 course.
+
+<b><a href="https://github.com/Ad-Chan/ConfigScrape">Config Scrape</a></b>
+- My attempt at an automated web scraping program. It uses Selenium to scrape data from a table on the website.
