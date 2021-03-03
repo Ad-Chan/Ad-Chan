@@ -3,7 +3,10 @@
 
 Welcome to my portfolio repository. My notable work will be hosted here. (WIP)
 
-
+Proficient Languages:
+- C
+- Java
+- Python
 
 <h3>Projects:</h3>
 
