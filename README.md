@@ -17,4 +17,4 @@ Proficient Languages:
 - Tasked with implementing various file system calls for OS/161. Specifically, the system calls implemented are open, read, write, lseek, close and dup2.
 
 <b><a href="https://github.com/Ad-Chan/MapBanBot">MapBanBot</a></b>
-- As part of UNSW Esports club, I created a map ban bot to facilitate the tournament events run by the club. This enabled participants to complete the banning process directly on the club discord rather than using an external website.
+- As part of UNSW Esports club, I created a map ban bot to facilitate the tournament events run by the club. This enabled participants to complete the banning process directly on the club discord rather than using an external website. The bot uses Discord.py.
